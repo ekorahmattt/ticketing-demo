@@ -12,6 +12,11 @@
         "id": 102,
         "name": "Kertas macet",
         "sla_minutes": 45
+      },
+      {
+        "id": 103,
+        "name": "Koneksi printer hilang",
+        "sla_minutes": 20
       }
     ]
   },
@@ -28,6 +33,22 @@
         "id": 202,
         "name": "SIMRS tidak bisa dibuka",
         "sla_minutes": 15
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "category_name": "SIMRS",
+    "subcategories": [
+      {
+        "id": 301,
+        "name": "Tidak bisa akses SIMRS",
+        "sla_minutes": 10
+      },
+      {
+        "id": 302,
+        "name": "Tidak bisa login SIMRS",
+        "sla_minutes": 5
       }
     ]
   }
