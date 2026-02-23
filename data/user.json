@@ -1,0 +1,12 @@
+{
+  "user_id": 12,
+  "name": "Eko Rahmat",
+  "username": "eko.rahmat",
+  "unit": "IGD",
+  "hostname": "PC-IGD-01",
+  "ip_address": "192.168.1.10",
+  "device_brand": "Dell",
+  "device_model": "Optiplex 3080",
+  "detection_mode": "LAN",
+  "report_time": "2026-02-21 22:45:00"
+}

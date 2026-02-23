@@ -1,0 +1,34 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Printer",
+    "subcategories": [
+      {
+        "id": 101,
+        "name": "Tidak dapat mencetak",
+        "sla_minutes": 30
+      },
+      {
+        "id": 102,
+        "name": "Kertas macet",
+        "sla_minutes": 45
+      }
+    ]
+  },
+  {
+    "category_id": 2,
+    "category_name": "Jaringan",
+    "subcategories": [
+      {
+        "id": 201,
+        "name": "Tidak bisa akses internet",
+        "sla_minutes": 20
+      },
+      {
+        "id": 202,
+        "name": "SIMRS tidak bisa dibuka",
+        "sla_minutes": 15
+      }
+    ]
+  }
+]
